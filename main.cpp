@@ -22,5 +22,5 @@ int main(int argc, char *argv[])
 
         emit w->AddCmd(s);
     }
-    return a.exec();
+
 }
